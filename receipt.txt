@@ -1,0 +1,10 @@
+	--------------------------
+	 Bun Talk Bakery Receipt
+	--------------------------
+	Item		Amount
+
+	White Bread     LKR.150.00
+	Kurakkan bread  LKR.200.00
+	Bagutte         LKR.340.00
+	--------------------------
+	Total:          LKR.690.00
